@@ -46,8 +46,6 @@ Identify websites or apps that use these color combinations:
 
 **Deliverable**: A Figma file showing screenshots, URLs, and the color combination type for each.
 
-[GitHub Path](https://github.com/Athooh/User-Interface/blob/main/ColorCombinations/ColorCombinations_FigmaFile.pdf)
-
 ---
 
 ### 4. **Moodboards**
